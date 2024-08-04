@@ -2,4 +2,5 @@
 chroma_*
 chroma
 .DS_Store
+.vscode/
 virtualenv/
